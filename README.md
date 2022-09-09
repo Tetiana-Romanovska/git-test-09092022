@@ -2,4 +2,6 @@ git config - настраивает имя пользователя и email (с
 git status - показывает состояние репозитория 
 git init - создание репозитория
 git add - добавление файлов 
-git commit - сохранение 
+git commig - сохранение
+git commit -m "" - сохранение и добавление названия
+git commit -a -m "" - добавление файлов и сохранение (git add + git commit)
