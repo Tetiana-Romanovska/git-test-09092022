@@ -1,0 +1,43 @@
+p {
+  background-color: aqua;
+}
+
+.class1 {
+  background-color: blue;
+}
+
+#exciting {
+  background-color: blueviolet;
+}
+
+[href]{
+  background-color: yellow;
+}
+
+div>a[href]{
+  background-color: lightcoral;
+}
+
+div p {
+  background-color: brown;
+}
+
+ul>li {
+background-color: yellow;
+}
+
+.class2 .class3 {
+  background-color: red;
+}
+
+.class4#class5 {
+  background-color: pink;
+}
+
+h2.class6.class7#class8 {
+  background-color: yellowgreen;
+}
+
+h3.class9.class10 {
+  background-color: peru;
+}
