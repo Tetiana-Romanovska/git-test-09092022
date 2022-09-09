@@ -5,4 +5,5 @@ git add - добавление файлов
 git commig - сохранение
 git commit -m "" - сохранение и добавление названия
 git commit -a -m "" - добавление файлов и сохранение (git add + git commit)
-git commit --amend -m "" изменение имени уже сохраненного commi
+git commit --amend -m "" изменение имени уже сохраненного commit
+git restore восстановление удаленных или измененных файлов
